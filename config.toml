@@ -4,7 +4,7 @@ builddrafts = false
 # Replace this with your website URL
 baseurl = "https://biaslab.github.io"
 canonifyurls = true
-theme = "academic-group"
+theme = "hugo-academic-group"
 title = "BIASlab"
 math = true
 copyright = "&copy; BIASlab, 2021 "
