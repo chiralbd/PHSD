@@ -5,7 +5,7 @@ builddrafts = false
 baseurl = ""
 canonifyurls = true
 theme = "hugo-academic-group"
-title = "Health Data Science Center - CHIRAL Bangladesh"
+title = "Population Health Studies Division - CHIRAL Bangladesh"
 math = true
 copyright = "&copy; Center for Health Innovation, Research, Action and Learning - Bangladesh"
 enableRobotsTXT = true
@@ -20,17 +20,17 @@ tag = "tags"
       unsafe = true
 
 [params]
-  description = "We collaborate with a broad variety of partners, including patients, the general public, physicians, researchers, and health organizations, to assist them in conducting research into the causes, prevention, and treatment of all health problems using health data (such as heart attacks, strokes, and vascular dementia). We do this to make sure that new ways to treat and care for diseases and health problems reach patients as quickly as possible."
+  description = "The PHSD team works on Bangladesh's public health issues. The design study for producing data for CHIRAL as well as preparing secondary data to give it a meaningful structure."
   author = "CHIRAL Bangladesh"
-  email = "hdsc.chiralbd@gmail.com"
+  email = "chiralbd@gmail.com"
   #youtube = "https://www.youtube.com/channel/UCAcwD0rF2Rm-sp1c2LUWh4w"
   address = '<a>Azimpur, 7/7, Dhaka, Bangladesh</a>'
   slogan = "CHIRAL<b>BD</b>"
   slogan_icon = "icon-spsbrats_logo"
-  slogan_text = "Better Insights, Better Lives"
+  slogan_text = "The New Standard in Health Research"
   custom_css = ["biaslab.css"]
-  landing_heading = "Solve Health Problems Through Modern Data Science Techniques"
-  landing_description = "Health Data Science Center(HDSC) is a research wing of the CHIRAL Bangladesh. The wing focuses on using health data to make better healthcare decisions."
+  landing_heading = "The New Standard in Health Research"
+  landing_description = "The PHSD team works on Bangladesh's public health issues. The design study for producing data for CHIRAL as well as preparing secondary data to give it a meaningful structure."
   
   [[params.navbar_hierarchy]]
   name = "CHIRAL Bangladesh"
@@ -38,7 +38,7 @@ tag = "tags"
   position = 1
   #
   [[params.navbar_hierarchy]]
-    name = "HDSC"
+    name = "PHSD"
     link = "/"
     position = 2
 
@@ -65,7 +65,7 @@ tag = "tags"
   [params.publications]
     count = 5
     detailed_list = false
-    title = "Working Papers"
+    title = "Publications"
     subtitle = ""
     str_all = "More Publications"
 
@@ -83,7 +83,7 @@ tag = "tags"
   [params.projects]
     title = "Projects"
     subtitle = ""
-    count = 5
+    count = 6
     str_all = "More Projects"
 
   # Vacancies section
