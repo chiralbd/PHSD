@@ -9,11 +9,12 @@ title = "University Mental Health Screening System(UMHSS)"
 participants_block_position = "down"
 sort_position = 3
 
+
 [[participants]]
-  name = "Dr. Syedatasneem Towhid"
-  id = "tasneem"
+  name = "Syed Muhammad Sajjad Kabir"
+  id = "sajjad"
   position = 1
-  
+
 [[participants]]
   name = "Sabia Sultana"
   id = "sabia"
@@ -22,7 +23,14 @@ sort_position = 3
 [[participants]]
   name = "Jubayer Hossain"
   id = "jhossain"
-  position = 2
+  position = 3
+  
+
+[[participants]]
+  name = "Dr. Muhammad Tareque Hasan"
+  id = "tareque"
+  position = 4
+  
 +++
 
 <table border = "1">

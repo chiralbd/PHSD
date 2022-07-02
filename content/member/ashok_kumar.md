@@ -6,7 +6,7 @@ name = "Dr. Ashok Kumar Barman"
 portrait = "portraits/ashok.jpg"
 short_bio = ""
 title = "Senior Research Assistant"
-sort_position = 4
+sort_position = 5
 
 [[social]]
     icon = "envelope"
@@ -25,9 +25,10 @@ sort_position = 4
 
 [[education]]
     course = "MBBS"
-    institution = 'Dhaka Medical College'
+    institution = 'Shaheed Suhrawardy Medical College and Hospital'
     year = 2020
     
+
 +++
 
 Dr. Ashok completed his MBBS from Sher-e-Bangla Medical College and MS in Bitechnology from North South University. Currently, he is working as a medical officer at iccdr,b.

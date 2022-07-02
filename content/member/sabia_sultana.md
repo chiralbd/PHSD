@@ -6,7 +6,7 @@ name = "Sabia Sultana"
 portrait = "mentors/sabia.jpeg"
 short_bio = "Sabia Sultana is currently working as an Assistant Professor in the Department of Microbiology at Jagannath University. She has achieved her B.S (Hons) and M.S degree in Microbiology from the University of Dhaka, Bangladesh in 2011 and 2012, respectively. During her MS program, she worked in the Genetics and Bioinformatics Laboratory and completed her thesis on the emergence of ESBL-carbapenemase producing enterobacteriaceae in clinical and environmental sources in Bangladesh."
 title = "Supervisor"
-sort_position = 3
+sort_position = 2
 
 [[social]]
     icon = "envelope"
